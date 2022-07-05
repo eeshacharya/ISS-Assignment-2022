@@ -1,0 +1,21 @@
+{
+ "firstName": "Eesha",
+ "lastName": "Charaya",
+ "address": [
+  {
+   "street": "abc",
+   "city": "Mumbai",
+   "state": "Maharashtrax"
+  },
+  {
+   "street": "xyz",
+   "city": "Chennai",
+   "state": "TN"
+  },
+   {
+   "street": "wow",
+   "city": "Hydrabad",
+   "state": "LK"
+  }
+ ]
+}
